@@ -24,6 +24,7 @@
 ---
 
 ### &#127875; Интересные проекты:
+- [Библиотека Табло для отображения матчей](https://github.com/SkoblenkovMaxim/FootballWorldCupBoard)
 - [Афиша](https://github.com/SkoblenkovMaxim/java-explore-with-me)
 - [Сервис по оценке фильмов](https://github.com/SkoblenkovMaxim/java-filmorate)
 - [Сервис по аренде товаров](https://github.com/SkoblenkovMaxim/java-shareit)
